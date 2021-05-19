@@ -2,7 +2,7 @@
 
 hidl_interface {
     name: "vendor.oneplus.hardware.camera@1.0",
-    root: "vendor.oneplus",
+    root: "vendor",
     system_ext_specific: true,
     srcs: [
         "IOnePlusCameraProvider.hal",
